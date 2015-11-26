@@ -2,7 +2,9 @@
 <resources>
 
 	<style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
-		<item name="colorPrimary">#2196F3</item>
+<!--	http://www.android4devs.com/2014/12/how-to-make-material-design-app.html-->
+		<item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
 		<item name="drawerArrowStyle">@style/MyDrawerArrowStyle</item>
 	</style>
 

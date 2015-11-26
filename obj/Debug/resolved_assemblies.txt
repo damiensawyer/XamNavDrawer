@@ -1,0 +1,10 @@
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/DrawerLayout_V7_Tutorial.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/System.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/System.Xml.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/Mono.Android.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/System.Core.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/mscorlib.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/damiensawyer/temp/XamNavDrawer/obj/Debug/assemblies/System.ServiceModel.Internals.dll

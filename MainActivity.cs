@@ -37,7 +37,7 @@ namespace DrawerLayout_V7_Tutorial
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 
-			mToolbar = FindViewById<SupportToolbar>(Resource.Id.toolbar);
+			mToolbar = FindViewById<SupportToolbar>(Resource.Id.tool_bar);
 			mDrawerLayout = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
 			mLeftDrawer = FindViewById<ListView>(Resource.Id.left_drawer);
 			homeFragment = new HomeFragment();
@@ -63,7 +63,7 @@ namespace DrawerLayout_V7_Tutorial
 				this,							//Host Activity
 				mDrawerLayout,					//DrawerLayout
 				Resource.String.openDrawer,		//Opened Message
-				Resource.String.closeDrawer		//Closed Message
+				Resource.String.closeDrawer		//Closed Messagedr
 			);
 
 			mDrawerLayout.SetDrawerListener(mDrawerToggle);
